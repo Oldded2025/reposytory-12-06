@@ -1,0 +1,8 @@
+# vevv
+venv
+.venv
+# python
+__pycache__
+*.__pyc
+# db
+*.sqlite3
